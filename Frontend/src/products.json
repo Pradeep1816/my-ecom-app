@@ -1,0 +1,443 @@
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "category": "Men's Sneaker",
+      "name": "ULTRABOOST 22 SHOES",
+      "seller": "Adidas",
+      "price": 420,
+      "stock": 20,
+      "ratings": 4,
+      "ratingsCount": 3725,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+      "shipping": 1,
+      "quantity": 0,
+      "sizes": [
+        { "size": "7", "quantity": 5 },
+        { "size": "8", "quantity": 10 },
+        { "size": "9", "quantity": 3 },
+        { "size": "10", "quantity": 2 }
+      ]
+    },
+    {
+      "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+      "category": "Men's Sneaker",
+      "name": "LUNAR NEW YEAR ULTRABOOST DNA SHOES",
+      "seller": "Adidas",
+      "price": 196,
+      "stock": 19,
+      "ratings": 5,
+      "ratingsCount": 4355,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg",
+      "shipping": 14,
+      "quantity": 0,
+      "sizes": [
+        { "size": "7", "quantity": 4 },
+        { "size": "8", "quantity": 7 },
+        { "size": "9", "quantity": 5 },
+        { "size": "10", "quantity": 3 }
+      ]
+    },
+    {
+      "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+      "category": "Men's Sneaker",
+      "name": "SUPERNOVA SHOES",
+      "seller": "Adidas",
+      "price": 245,
+      "stock": 20,
+      "ratings": 4,
+      "ratingsCount": 3972,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/69cbc73d0cb846889f89acbb011e68cb_9366/Supernova_Shoes_Black_S42722_01_standard.jpg",
+      "shipping": 1,
+      "quantity": 0,
+      "sizes": [
+        { "size": "7", "quantity": 6 },
+        { "size": "8", "quantity": 8 },
+        { "size": "9", "quantity": 4 },
+        { "size": "10", "quantity": 2 }
+      ]
+    },
+    {
+      "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+      "category": "Men's Sneaker",
+      "name": "LITE RACER ADAPT 3.0 SHOES",
+      "seller": "Adidas",
+      "price": 229,
+      "stock": 10,
+      "ratings": 5,
+      "ratingsCount": 1764,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/96a5f085fedf4e678095abad01056711_9366/Lite_Racer_Adapt_3.0_Shoes_Black_FX8802_01_standard.jpg",
+      "shipping": 32,
+      "quantity": 0,
+      "sizes": [
+        { "size": "7", "quantity": 2 },
+        { "size": "8", "quantity": 4 },
+        { "size": "9", "quantity": 3 },
+        { "size": "10", "quantity": 1 }
+      ]
+    },
+    {
+      "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      "category": "Men's Sneaker",
+      "name": "4DFWD SHOES",
+      "seller": "Adidas",
+      "price": 287,
+      "stock": 11,
+      "ratings": 4,
+      "ratingsCount": 799,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c5d1994dfd343e28567ad4400dd351d_9366/4DFWD_Shoes_Black_Q46447_01_standard.jpg",
+      "shipping": 49,
+      "quantity": 0,
+      "sizes": [
+        { "size": "7", "quantity": 3 },
+        { "size": "8", "quantity": 5 },
+        { "size": "9", "quantity": 2 },
+        { "size": "10", "quantity": 1 }
+      ]
+    },
+    {
+      "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+      "category": "Men's Sneaker",
+      "name": "KAPTIR 2.0 SHOES",
+      "seller": "Adidas",
+      "price": 138,
+      "stock": 19,
+      "ratings": 3,
+      "ratingsCount": 4372,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0846e90b15144861b33dacf500e3cfd1_9366/Kaptir_2.0_Shoes_White_H00276_01_standard.jpg",
+      "shipping": 19,
+      "quantity": 0,
+      "sizes": [
+        { "size": "7", "quantity": 7 },
+        { "size": "8", "quantity": 6 },
+        { "size": "9", "quantity": 4 },
+        { "size": "10", "quantity": 2 }
+      ]
+    },
+    {
+      "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+      "category": "Men's Sneaker",
+      "name": "4DFWD PULSE SHOES",
+      "seller": "Adidas",
+      "price": 226,
+      "stock": 1,
+      "ratings": 4,
+      "ratingsCount": 2870,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9a8256bb7ca34da49ff8ad5600bb2812_9366/4DFWD_Pulse_Shoes_White_Q46221_01_standard.jpg",
+      "shipping": 15,
+      "quantity": 0,
+      "sizes": [
+        { "size": "7", "quantity": 1 },
+        { "size": "8", "quantity": 0 },
+        { "size": "9", "quantity": 0 },
+        { "size": "10", "quantity": 0 }
+      ]
+    },
+    {
+      "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+      "category": "Men's Sneaker",
+      "name": "ZX 1K BOOST SHOES",
+      "seller": "Adidas",
+      "price": 319,
+      "stock": 7,
+      "ratings": 4,
+      "ratingsCount": 1360,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0e540bae86d5456aa034ada300ebf46c_9366/ZX_1K_Boost_Shoes_Grey_H00430_01_standard.jpg",
+      "shipping": 50,
+      "quantity": 0,
+      "sizes": [
+        { "size": "7", "quantity": 2 },
+        { "size": "8", "quantity": 3 },
+        { "size": "9", "quantity": 1 },
+        { "size": "10", "quantity": 1 }
+      ]
+    },
+    {
+      "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+      "category": "Men's Sneaker",
+      "name": "NMD_R1 V2 SHOES",
+      "seller": "Adidas",
+      "price": 260,
+      "stock": 4,
+      "ratings": 5,
+      "ratingsCount": 1976,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c2a18c4e3f104d52a697ad6a01477bb7_9366/NMD_R1_V2_Shoes_Black_GX6367_01_standard.jpg",
+      "shipping": 46,
+      "quantity": 0,
+      "sizes": [
+        { "size": "7", "quantity": 1 },
+        { "size": "8", "quantity": 1 },
+        { "size": "9", "quantity": 1 },
+        { "size": "10", "quantity": 1 }
+      ]
+    },
+    {
+      "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+      "category": "Men's Sneaker",
+      "name": "NMD_R1 PRIMEBLUE SHOES",
+      "seller": "Adidas",
+      "price": 437,
+      "stock": 1,
+      "ratings": 4,
+      "ratingsCount": 565,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0e03e7a2a9cb44dfac2bad6a00f95888_9366/NMD_R1_Primeblue_Shoes_White_GZ9261_01_standard.jpg",
+      "shipping": 36,
+      "quantity": 0,
+      "sizes": [
+        { "size": "7", "quantity": 0 },
+        { "size": "8", "quantity": 1 },
+        { "size": "9", "quantity": 0 },
+        { "size": "10", "quantity": 0 }
+      ]
+    },
+    {
+      "id": "d0803f97-966f-4296-ad31-a7f70fc86fab",
+      "category": "Men's Pants",
+      "name": "TIRO TRACK PANTS",
+      "seller": "Adidas",
+      "price": 146,
+      "stock": 15,
+      "ratings": 5,
+      "ratingsCount": 3702,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9c7058d8677742ac8519ac3f009cdcf4_9366/Tiro_21_Track_Pants_Black_GH7305_21_model.jpg",
+      "shipping": 29,
+      "quantity": 0,
+      "sizes": [
+        { "size": "S", "quantity": 5 },
+        { "size": "M", "quantity": 6 },
+        { "size": "L", "quantity": 4 }
+      ]
+    },
+    {
+      "id": "8a5b4a9c-76ea-4fbb-9c70-9548de4eab01",
+      "category": "Men's Pants",
+      "name": "TIRO 21 TRACK PANTS",
+      "seller": "Adidas",
+      "price": 109,
+      "stock": 6,
+      "ratings": 5,
+      "ratingsCount": 1688,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9c7058d8677742ac8519ac3f009cdcf4_9366/Tiro_21_Track_Pants_Black_GH7305_21_model.jpg",
+      "shipping": 48,
+      "quantity": 0,
+      "sizes": [
+        { "size": "S", "quantity": 2 },
+        { "size": "M", "quantity": 2 },
+        { "size": "L", "quantity": 2 }
+      ]
+    },
+    {
+      "id": "b357e19b-4dd9-4fc7-b5c0-9ed5255464ba",
+      "category": "Men's Pants",
+      "name": "PRIMEBLUE SST TRACK PANTS",
+      "seller": "Adidas",
+      "price": 63,
+      "stock": 46,
+      "ratings": 4,
+      "ratingsCount": 50,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c447324cf06544b78105ade500fd9e2f_9366/Tiro_Pants_Black_HI1073_21_model.jpg",
+      "shipping": 20,
+      "quantity": 0,
+      "sizes": [
+        { "size": "S", "quantity": 15 },
+        { "size": "M", "quantity": 16 },
+        { "size": "L", "quantity": 15 }
+      ]
+    },
+    {
+      "id": "e4220958-06d2-4d50-96fa-0163a563f43d",
+      "category": "Men's Pants",
+      "name": "TIRO 21 TRACK PANTS",
+      "seller": "Adidas",
+      "price": 148,
+      "stock": 41,
+      "ratings": 3,
+      "ratingsCount": 4483,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c447324cf06544b78105ade500fd9e2f_9366/Tiro_Pants_Black_HI1073_21_model.jpg",
+      "shipping": 8,
+      "quantity": 0,
+      "sizes": [
+        { "size": "S", "quantity": 14 },
+        { "size": "M", "quantity": 13 },
+        { "size": "L", "quantity": 14 }
+      ]
+    },
+    {
+      "id": "ae69f0e4-559c-4b24-8032-80b63f9b5073",
+      "category": "Men's Pants",
+      "name": "TIRO TRACK PANTS RED",
+      "seller": "Adidas",
+      "price": 122,
+      "stock": 43,
+      "ratings": 4,
+      "ratingsCount": 1239,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c447324cf06544b78105ade500fd9e2f_9366/Tiro_Pants_Black_HI1073_21_model.jpg",
+      "shipping": 27,
+      "quantity": 0,
+      "sizes": [
+        { "size": "S", "quantity": 15 },
+        { "size": "M", "quantity": 14 },
+        { "size": "L", "quantity": 14 }
+      ]
+    },
+    {
+      "id": "dbf7ab3f-b383-4d95-8ab7-f55fcf6fa5f2",
+      "category": "Men's Pants",
+      "name": "TIRO PANTS BLACK GOLD",
+      "seller": "Adidas",
+      "price": 115,
+      "stock": 26,
+      "ratings": 5,
+      "ratingsCount": 4557,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c447324cf06544b78105ade500fd9e2f_9366/Tiro_Pants_Black_HI1073_21_model.jpg",
+      "shipping": 33,
+      "quantity": 0,
+      "sizes": [
+        { "size": "S", "quantity": 9 },
+        { "size": "M", "quantity": 8 },
+        { "size": "L", "quantity": 9 }
+      ]
+    },
+    {
+      "id": "ed6a7ac3-7e67-4e3f-8461-bceb5178be42",
+      "category": "Men's Pants",
+      "name": "TAPERED-CUFF 3-STRIPES PANTS",
+      "seller": "Adidas",
+      "price": 108,
+      "stock": 5,
+      "ratings": 3,
+      "ratingsCount": 3383,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c447324cf06544b78105ade500fd9e2f_9366/Tiro_Pants_Black_HI1073_21_model.jpg",
+      "shipping": 26,
+      "quantity": 0,
+      "sizes": [
+        { "size": "S", "quantity": 2 },
+        { "size": "M", "quantity": 2 },
+        { "size": "L", "quantity": 1 }
+      ]
+    },
+    {
+      "id": "fd52819a-cb78-4510-ad2f-c5bdd888ae78",
+      "category": "Men's Pants",
+      "name": "FRENCH TERRY TAPERED CUFF LOGO PANTS",
+      "seller": "Adidas",
+      "price": 189,
+      "stock": 27,
+      "ratings": 3,
+      "ratingsCount": 1974,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c447324cf06544b78105ade500fd9e2f_9366/Tiro_Pants_Black_HI1073_21_model.jpg",
+      "shipping": 20,
+      "quantity": 0,
+      "sizes": [
+        { "size": "S", "quantity": 9 },
+        { "size": "M", "quantity": 9 },
+        { "size": "L", "quantity": 9 }
+      ]
+    },
+    {
+      "id": "c667d3ff-41eb-4cf7-a433-819d959ea768",
+      "category": "Men's Pants",
+      "name": "OPEN HEM 3-STRIPES TRACK PANTS",
+      "seller": "Adidas",
+      "price": 58,
+      "stock": 41,
+      "ratings": 5,
+      "ratingsCount": 2140,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c447324cf06544b78105ade500fd9e2f_9366/Tiro_Pants_Black_HI1073_21_model.jpg",
+      "shipping": 49,
+      "quantity": 0,
+      "sizes": [
+        { "size": "S", "quantity": 14 },
+        { "size": "M", "quantity": 14 },
+        { "size": "L", "quantity": 13 }
+      ]
+    },
+    {
+      "id": "e1dbc7fe-be17-4e0f-9e2d-6ad5dbc102fc",
+      "category": "Men's Pants",
+      "name": "ESSENTIALS4GAMEDAY PANTS",
+      "seller": "Adidas",
+      "price": 185,
+      "stock": 43,
+      "ratings": 5,
+      "ratingsCount": 2676,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c447324cf06544b78105ade500fd9e2f_9366/Tiro_Pants_Black_HI1073_21_model.jpg",
+      "shipping": 27,
+      "quantity": 0,
+      "sizes": [
+        { "size": "S", "quantity": 15 },
+        { "size": "M", "quantity": 14 },
+        { "size": "L", "quantity": 14 }
+      ]
+    },
+    {
+      "id": "0298e695-1f9b-49b1-9961-8a8460f95b1c",
+      "category": "Men's Boot",
+      "name": "TERREX FREE HIKER GORE-TEX HIKING SHOES",
+      "seller": "Adidas",
+      "price": 132,
+      "stock": 1,
+      "ratings": 3,
+      "ratingsCount": 128,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/12cf12ac1c8e484ea487ad6400ee3444_9366/Terrex_Free_Hiker_Gore-Tex_Hiking_Shoes_Black_GZ0355_01_standard.jpg",
+      "shipping": 13,
+      "quantity": 0,
+      "sizes": [
+        { "size": "8", "quantity": 1 }
+      ]
+    },
+    {
+      "id": "3cfe9adc-c27f-4be4-a859-a5c98ce88a27",
+      "category": "Men's Boot",
+      "name": "TERREX AX4 MID GORE-TEX HIKING SHOES",
+      "seller": "Adidas",
+      "price": 111,
+      "stock": 19,
+      "ratings": 4,
+      "ratingsCount": 894,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/dfa8c9a7d2864065b27fad7400b2e05e_9366/Terrex_AX4_Mid_GORE-TEX_Hiking_shoes_Black_FY9638_01_standard.jpg",
+      "shipping": 27,
+      "quantity": 0,
+      "sizes": [
+        { "size": "8", "quantity": 7 },
+        { "size": "9", "quantity": 6 },
+        { "size": "10", "quantity": 6 }
+      ]
+    },
+    {
+      "id": "6602468a-a3a8-4c2c-9d3a-fd54e2c5daf7",
+      "category": "Men's Boot",
+      "name": "RESPONSE 3MC ADV BOOTS",
+      "seller": "Adidas",
+      "price": 104,
+      "stock": 6,
+      "ratings": 5,
+      "ratingsCount": 354,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b513f2cec8b440978d60ab6d014ad452_9366/Response_3MC_ADV_Boots_Black_EG9391_01_standard.jpg",
+      "shipping": 26,
+      "quantity": 0,
+      "sizes": [
+        { "size": "8", "quantity": 2 },
+        { "size": "9", "quantity": 2 },
+        { "size": "10", "quantity": 2 }
+      ]
+    },
+    {
+      "id": "5db3ee2f-2eb7-4764-942d-894f72198e86",
+      "category": "Men's Boot",
+      "name": "TACTICAL LEXICON ADV BOOTS",
+      "seller": "Adidas",
+      "price": 151,
+      "stock": 3,
+      "ratings": 4,
+      "ratingsCount": 584,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f5350f3d583c46038534ab6d01445e2a_9366/Tactical_Lexicon_ADV_Boots_Grey_EG9386_01_standard.jpg",
+      "shipping": 33,
+      "quantity": 0,
+      "sizes": [
+        { "size": "8", "quantity": 1 },
+        { "size": "9", "quantity": 1 },
+        { "size": "10", "quantity": 1 }
+      ]
+    }
+  ]
+  
